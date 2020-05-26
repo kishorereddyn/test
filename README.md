@@ -37,8 +37,3 @@
   - This api function will accepts two dates, the date is in the format of dd-mm-yyyy
   - sample URL:http://127.0.0.1:8000/avg_high_low/01-10-2018/03-10-2018/
 
-- Month wise average of the open and close price.
-  - This api function will accepts two dates, the date is in the format of dd-mm-yyyy
-  - sample URL:http://127.0.0.1:8000/month_high_low_avg/01-10-2018/03-10-2018/
-
-
